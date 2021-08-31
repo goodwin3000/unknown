@@ -1,3 +1,4 @@
 Some text here 1 
-Some text here 2
+DELETED TEXT HERE
 Some text here 3
+INCORRECT TEXT HERE
